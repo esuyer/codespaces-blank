@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/src/app/concoleApp/bin/Debug/net6.0/concoleApp
+/workspaces/codespaces-blank/src/app/concoleApp/bin/Debug/net6.0/concoleApp.deps.json
+/workspaces/codespaces-blank/src/app/concoleApp/bin/Debug/net6.0/concoleApp.runtimeconfig.json
+/workspaces/codespaces-blank/src/app/concoleApp/bin/Debug/net6.0/concoleApp.dll
+/workspaces/codespaces-blank/src/app/concoleApp/bin/Debug/net6.0/concoleApp.pdb
+/workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/concoleApp.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/concoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/concoleApp.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/concoleApp.AssemblyInfo.cs
+/workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/concoleApp.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/concoleApp.dll
+/workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/refint/concoleApp.dll
+/workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/concoleApp.pdb
+/workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/concoleApp.genruntimeconfig.cache
+/workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/ref/concoleApp.dll

@@ -1,0 +1,12 @@
+/workspaces/codespaces-blank/src/app/battleship/obj/Debug/net6.0/battleship.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/src/app/battleship/obj/Debug/net6.0/battleship.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/src/app/battleship/obj/Debug/net6.0/battleship.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/src/app/battleship/obj/Debug/net6.0/battleship.AssemblyInfo.cs
+/workspaces/codespaces-blank/src/app/battleship/obj/Debug/net6.0/battleship.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/src/app/battleship/bin/Debug/net6.0/battleship.deps.json
+/workspaces/codespaces-blank/src/app/battleship/bin/Debug/net6.0/battleship.dll
+/workspaces/codespaces-blank/src/app/battleship/bin/Debug/net6.0/battleship.pdb
+/workspaces/codespaces-blank/src/app/battleship/obj/Debug/net6.0/battleship.dll
+/workspaces/codespaces-blank/src/app/battleship/obj/Debug/net6.0/refint/battleship.dll
+/workspaces/codespaces-blank/src/app/battleship/obj/Debug/net6.0/battleship.pdb
+/workspaces/codespaces-blank/src/app/battleship/obj/Debug/net6.0/ref/battleship.dll
