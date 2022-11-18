@@ -13,3 +13,6 @@
 /workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/concoleApp.pdb
 /workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/concoleApp.genruntimeconfig.cache
 /workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/ref/concoleApp.dll
+/workspaces/codespaces-blank/src/app/concoleApp/bin/Debug/net6.0/battleship.dll
+/workspaces/codespaces-blank/src/app/concoleApp/bin/Debug/net6.0/battleship.pdb
+/workspaces/codespaces-blank/src/app/concoleApp/obj/Debug/net6.0/concoleApp.csproj.CopyComplete

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "concoleApp/1.0.0": {
+        "dependencies": {
+          "battleship": "1.0.0"
+        },
         "runtime": {
           "concoleApp.dll": {}
+        }
+      },
+      "battleship/1.0.0": {
+        "runtime": {
+          "battleship.dll": {}
         }
       }
     }
   },
   "libraries": {
     "concoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "battleship/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\app\concoleApp\concoleApp.csproj" />
+    <ProjectReference Include="..\..\app\battleship\battleship.csproj" />
   </ItemGroup>
 
 </Project>

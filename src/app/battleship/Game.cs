@@ -11,6 +11,10 @@ namespace battleship
             map =  new Map();
         }
         
+        public Map Map { get {return map;} }
+
+        public List<WarShip> Ships { get {return ships;} }
+
         public void Setup()
         {
             // add a carrier

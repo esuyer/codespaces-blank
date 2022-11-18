@@ -101,3 +101,5 @@
 /workspaces/codespaces-blank/src/test/consoleApp.Tests/obj/Debug/net6.0/consoleApp.Tests.pdb
 /workspaces/codespaces-blank/src/test/consoleApp.Tests/obj/Debug/net6.0/consoleApp.Tests.genruntimeconfig.cache
 /workspaces/codespaces-blank/src/test/consoleApp.Tests/obj/Debug/net6.0/ref/consoleApp.Tests.dll
+/workspaces/codespaces-blank/src/test/consoleApp.Tests/bin/Debug/net6.0/battleship.dll
+/workspaces/codespaces-blank/src/test/consoleApp.Tests/bin/Debug/net6.0/battleship.pdb

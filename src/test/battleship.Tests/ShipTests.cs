@@ -92,7 +92,7 @@ namespace battleship.Tests {
         }
 
         [TestMethod]
-        public void FireAndMiss()
+        public void FireAndMissTest()
         {
             var s = new PatrolBoat(new Coordinate[] {
                 new Coordinate('C', 4)});

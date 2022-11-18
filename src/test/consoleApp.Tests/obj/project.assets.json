@@ -1673,9 +1673,22 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "battleship/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/battleship.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/battleship.dll": {}
+        }
+      },
       "concoleApp/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "battleship": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/concoleApp.dll": {}
         },
@@ -4885,6 +4898,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "battleship/1.0.0": {
+      "type": "project",
+      "path": "../../app/battleship/battleship.csproj",
+      "msbuildProject": "../../app/battleship/battleship.csproj"
+    },
     "concoleApp/1.0.0": {
       "type": "project",
       "path": "../../app/concoleApp/concoleApp.csproj",
@@ -4896,6 +4914,7 @@
       "MSTest.TestAdapter >= 2.2.8",
       "MSTest.TestFramework >= 2.2.8",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
+      "battleship >= 1.0.0",
       "concoleApp >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
@@ -4925,6 +4944,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "/workspaces/codespaces-blank/src/app/battleship/battleship.csproj": {
+              "projectPath": "/workspaces/codespaces-blank/src/app/battleship/battleship.csproj"
+            },
             "/workspaces/codespaces-blank/src/app/concoleApp/concoleApp.csproj": {
               "projectPath": "/workspaces/codespaces-blank/src/app/concoleApp/concoleApp.csproj"
             }

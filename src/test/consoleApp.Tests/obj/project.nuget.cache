@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KtgC0wk00ftykuyfV6DkHXPdwS5yZfcBVpXrlbwaFty9fNt5cDE8c+6Zp7p1DrCuqI/XkSPqmepoEteIsmOvdA==",
+  "dgSpecHash": "uUoEKdcB9GO+Rh6JEHgbhX7wYiWHRl+T5sh9JkcoHQ7G8ZTVcPLi1tfk69EE3Md47FYlKVySPJT8iWUwQqRNbQ==",
   "success": true,
   "projectFilePath": "/workspaces/codespaces-blank/src/test/consoleApp.Tests/consoleApp.Tests.csproj",
   "expectedPackageFiles": [
