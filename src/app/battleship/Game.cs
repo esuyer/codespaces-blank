@@ -5,12 +5,17 @@ namespace battleship
         List<WarShip> ships;
         Map map;
 
-        public Game() 
+        public Game() : this(GameLevelFactory.Make(GameLevelChoice.Easy))
+        {
+        }
+
+        public Game(IGameLevel level) 
         {
             ships = new List<WarShip>();
-            map =  new Map();
+            map =  new Map(level);
         }
-        
+
+
         public Map Map { get {return map;} }
 
         public List<WarShip> Ships { get {return ships;} }

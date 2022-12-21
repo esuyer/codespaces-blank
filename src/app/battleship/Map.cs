@@ -34,16 +34,22 @@ namespace battleship
             MissleStrike?.Invoke(this, e);
         }
         
-        public Map()
+        public Map(IGameLevel level)
         {
-            grid = new List<Cell>(100);
-            foreach (char r in "ABCDEFGHIJ")
+            grid = new List<Cell>( level.GridSize * level.GridSize );
+            
+            int rowStart = 65;  // 'A'
+            int colStart = 1;
+
+            for (int r = 0; r < level.GridSize; r++)
             {
-                foreach(int c in new int[] {1,2,3,4,5,6,7,8,9,10})
+                for (int c = 0; c < level.GridSize; c++)
                 {
-                    grid.Add(new Cell(r, c));
+                    grid.Add(new Cell((char)(rowStart + r), colStart + c));
                 }
+
             }
+
         }
 
         public MissleStrikeOutcome FireMissle(char row, int col)

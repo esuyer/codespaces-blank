@@ -79,7 +79,7 @@ namespace battleship.Tests {
                 new Coordinate('C', 4)});
 
             // change the state of C4 to a Hit
-            var m = new Map();
+            var m = new Map(GameLevelFactory.Make(GameLevelChoice.Easy));
             var l = new List<WarShip>();
 
             m.MissleStrike += s.HandleMissleStrike;
@@ -98,7 +98,7 @@ namespace battleship.Tests {
                 new Coordinate('C', 4)});
 
             // change the state of C4 to a Hit
-            var m = new Map();
+            var m = new Map(GameLevelFactory.Make(GameLevelChoice.Easy));
             var l = new List<WarShip>();
 
             m.MissleStrike += s.HandleMissleStrike;
